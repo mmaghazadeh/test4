@@ -1,0 +1,35 @@
+@font-face{
+    font-family: "iransans" ;
+    src: url(./fonts/IRANSans/eot/IRANSansWeb\(FaNum\Bold.eot) format(embededd-opentype); 
+     src: url(./fonts/IRANSans/woff2/IRANSansWeb\(FaNum\Bold.woff2) format(woff2), 
+         url(./fonts/IRANSans/woff/IRANSansWeb\(FaNum\Bold.woff) format(woff),
+         url(./fonts/IRANSans/ttf/IRANSansWeb\(FaNum\Bold.ttf) format(truetype);
+}
+@font-face{
+    font-family: "iransans" ;
+    src: url(./fonts/IRANSans/eot/IRANSansWeb\(FaNum\.eot) format(embededd-opentype); 
+     src: url(./fonts/IRANSans/woff2/IRANSansWeb\(FaNum\.woff2) format(woff2), 
+         url(./fonts/IRANSans/woff/IRANSansWeb\(FaNum\.woff) format(woff),
+         url(./fonts/IRANSans/ttf/IRANSansWeb\(FaNum\.ttf) format(truetype);
+}
+@font-face{
+    font-family: "iransans" ;
+    src: url(./fonts/IRANSans/eot/IRANSansWeb\(FaNum\Black.eot) format(embededd-opentype); 
+     src: url(./fonts/IRANSans/woff2/IRANSansWeb\(FaNum\Black.woff2) format(woff2), 
+         url(./fonts/IRANSans/woff/IRANSansWeb\(FaNum\Black.woff) format(woff),
+         url(./fonts/IRANSans/ttf/IRANSansWeb\(FaNum\Black.ttf) format(truetype);
+}
+@font-face{
+    font-family: "iransans" ;
+    src: url(./fonts/IRANSans/eot/IRANSansWeb\(FaNum\Light.eot) format(embededd-opentype); 
+     src: url(./fonts/IRANSans/woff2/IRANSansWeb\(FaNum\Light.woff2) format(woff2), 
+         url(./fonts/IRANSans/woff/IRANSansWeb\(FaNum\Light.woff) format(woff),
+         url(./fonts/IRANSans/ttf/IRANSansWeb\(FaNum\Light.ttf) format(truetype);
+}
+@font-face{
+    font-family: "iransans" ;
+    src: url(./fonts/IRANSans/eot/IRANSansWeb\(FaNum\UltraLight.eot) format(embededd-opentype); 
+     src: url(./fonts/IRANSans/woff2/IRANSansWeb\(FaNum\UltraLight.woff2) format(woff2), 
+         url(./fonts/IRANSans/woff/IRANSansWeb\(FaNum\UltraLight.woff) format(woff),
+         url(./fonts/IRANSans/ttf/IRANSansWeb\(FaNum\UltraLight.ttf) format(truetype);
+}
